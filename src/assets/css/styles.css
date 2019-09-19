@@ -1,0 +1,37 @@
+body{margin:0;padding:0;max-width:100%}
+*html{padding:0;max-height:100}
+blockquote,body,button,code,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0;font-size:14px;font-family:"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","\5FAE\8F6F\96C5\9ED1",Arial,sans-serif;z-index:1}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+address,caption,cite,code,dfn,em,optgroup,strong,th,var{font-style:inherit}
+del,ins{text-decoration:none}
+li{list-style:none}
+li,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+q:after,q:before{content:''}
+abbr,acronym{border:0;font-variant:normal}
+sup{vertical-align:baseline}
+sub{vertical-align:baseline}
+legend{color:#000}
+body{color:#585858}
+a{text-decoration:none;color:#333}
+button,input,optgroup,option,select,textarea{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}
+article,figure,footer,header,menu,nav,section{margin:0;padding:0;display:block}
+body{width:100%;min-width:1024px;margin:auto;background:#fff}
+.clear{clear:both;height:0;font-size:0;line-height:0;visibility:hidden;overflow:hidden}
+.fl{float:left}
+.fr{float:right}
+.flex{display:-webkit-box;display:flex;display:-ms-flexbox}
+.flex dd{-webkit-box-flex:1;-ms-flex:1;flex:1}
+.flex .first{margin-right:.1rem}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+#swt{cursor:pointer}
+.blank{width:1000px;height:10px;margin:auto}
+.blank20{width:1000px;height:20px;margin:auto}
+.omit{text-overflow:ellipsis;overflow:hidden;white-space:nowrap}
+.omit2{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.omit3{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.omit4{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.omit5{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5;overflow:hidden}
+.v-modal{position:relative!important}
